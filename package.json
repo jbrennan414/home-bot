@@ -11,7 +11,11 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.797.0",
+    "chrome-aws-lambda": "^10.1.0",
     "dotenv": "^16.4.7",
-    "puppeteer": "^24.6.0"
+    "puppeteer": "^24.10.2",
+    "puppeteer-core": "^10.1.0",
+    "uuid": "^11.1.0"
   }
 }
